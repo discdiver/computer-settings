@@ -1,0 +1,91 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+      },
+      "terminal.integrated.env.linux": {},
+      "editor.minimap.enabled": false,
+      "security.workspace.trust.untrustedFiles": "open",
+      "liveServer.settings.donotShowInfoMsg": true,
+        "editor.quickSuggestions": {
+          "other": true,
+          "comments": false,
+          "strings": true
+        },
+    "terminal.integrated.defaultProfile.osx": "zsh",
+      "chat.mcp.discovery.enabled": {
+        "claude-desktop": true,
+        "windsurf": true,
+        "cursor-global": true,
+        "cursor-workspace": true
+      },
+      "cSpell.userWords": [
+        "cband",
+        "gdsfactory",
+        "gdsfactoryplus",
+        "klayout",
+        "modelcontextprotocol",
+        "pyproject",
+        "Zoolander"
+      ],
+      "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false
+      },
+      "explorer.confirmDragAndDrop": false,
+      "redhat.telemetry.enabled": false,
+      "github.copilot.selectedCompletionModel": "",
+      "github.copilot.chat.codesearch.enabled": true,
+      "notebook.defaultFormatter": "ms-python.black-formatter",
+      "github.copilot.nextEditSuggestions.enabled": true,
+      "kilo-code.allowedCommands": [
+        "npm test",
+        "npm install",
+        "tsc",
+        "git log",
+        "git diff",
+        "git show"
+      ],
+      "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-mac": "/Users/jeffhale/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+        "vscode-kubernetes.minikube-path-mac": "/Users/jeffhale/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+        "vs-kubernetes.minikube-show-information-expiration": "2026-03-21T22:37:00.364Z"
+      },
+      "slidev.dev-command": "yarn exec slidev ${args}",
+      "kilo-code.deniedCommands": [],
+      "explorer.confirmDelete": false,
+      "workbench.startupEditor": "none",
+      "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.quickSuggestions": {
+          "other": true,
+          "comments": false,
+          "strings": true
+        },
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+      },
+      "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+      },
+      "docker.extension.enableComposeLanguageServer": false,
+      "claudeCode.preferredLocation": "sidebar",
+      "terminal.integrated.commandsToSkipShell": [
+        "kilo-code.new.agentManagerOpen",
+        "kilo-code.new.agentManager.showTerminal",
+        "kilo-code.new.agentManager.runScript"
+      ],
+      "geminicodeassist.displayInlineContextHint": false,
+      "kilo-code.new.autocomplete.enableAutoTrigger": true,
+      "kilo-code.new.autocomplete.enableSmartInlineTaskKeybinding": true,
+      "kilo-code.new.autocomplete.enableChatAutocomplete": true,
+      "docker.extension.dockerEngineAvailabilityPrompt": false,
+      "gdsfactoryplus.agent.effort": "medium",
+      "gdsfactoryplus.agent.provider": "gfp",
+
+}
